@@ -1,0 +1,32 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #6a27b6;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.clock {
+  color: white;
+  font-size: 3rem;
+  font-family: 'Arial', sans-serif;
+  letter-spacing: 2px;
+  border: 2px solid white;
+  padding: 10px;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+
